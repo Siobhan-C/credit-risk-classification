@@ -1,4 +1,4 @@
-Overview of the Analysis
+Overview of the Analysis 
 In this analysis, we aimed to evaluate the performance of a logistic regression model in predicting loan statuses. Specifically, the objective was to determine whether a loan is healthy (0) or high-risk (1). The financial data used in this analysis included features related to loan applications, such as applicant income, loan amount, credit history, etc. The target variable was the loan status, which we needed to predict.
 
 The stages of the machine learning process included:
